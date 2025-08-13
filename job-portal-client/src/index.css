@@ -78,7 +78,7 @@ button:focus-visible {
     transform: translateX(100%);
   }
   to {
-    opacity: 1;
+    opacity: 12;   hbhbf
     transform: translateX(0);
   }
 }
